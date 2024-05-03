@@ -5,6 +5,7 @@
 ## Software Used : 
 ##               1)Postman (Collaboration Tool For API's)
 ##               2)Cloudinary (Cloud based images and videos management Service)
+##               3)MongoDB Compass (Graphical User Interference)
 
 ## Nodejs Server Application:
 Application that allows you to upload images,file and videos to the server onwards all data related files stored in DB. 
