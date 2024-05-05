@@ -1,7 +1,7 @@
 ## Tecnologies Used :
-                   1)Nodejs 
-                   2)Expressjs 
-                   3)MongoDB
+               1)Nodejs 
+               2)Expressjs 
+               3)MongoDB
 ## Software Used : 
                1)Postman (Collaboration Tool For API's) 
                2)Cloudinary (Cloud based images and videos management Service)
